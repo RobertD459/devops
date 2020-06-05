@@ -4,7 +4,7 @@
 
 **What will you learn in this DevOps training?**
 
-Intellipaat’s DevOps course has been designed keeping in mind the latest industry needs. You will be trained on the following skillsets which have been curated based on job descriptions posted by companies looking for DevOps Engineers. In this DevOps course, you will learn the following aspects:
+Intellipaat’s [DevOps](https://intellipaat.com/blog/what-is-devops/) course has been designed keeping in mind the latest industry needs. You will be trained on the following skillsets which have been curated based on job descriptions posted by companies looking for DevOps Engineers. In this DevOps course, you will learn the following aspects:
 
 * In-depth knowledge of DevOps methodology
 * Implementing Software Version Control
